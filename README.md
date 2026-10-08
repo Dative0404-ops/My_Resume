@@ -1,6 +1,6 @@
 # Carlos S. Muller
 
-**Aspiring Crew Member / Team Member | Fast Learner | Customer Service Enthusiast**
+**Aspiring Tech Profession| Fast Learner | Customer Service Enthusiast**
 
 📍 Calauan, Laguna, Philippines
 📞 09670185981
@@ -17,7 +17,7 @@ Motivated and energetic individual seeking a part-time Crew Member or Team Membe
 ## 💼 Work Experience
 
 ### Independent Rice Farmer
-*Calauan, Laguna | 2022 - 2023*
+*Camarines Norte Daet | 2022 - 2023*
 
 - Managed daily operations of a small-scale rice farm, including crop cycles, planting, and harvesting.
 - Developed strong time-management and problem-solving skills by adapting to weather and logistical challenges.
@@ -53,14 +53,13 @@ Motivated and energetic individual seeking a part-time Crew Member or Team Membe
 - **Operational:** Inventory Management, Multitasking, Time Management
 - **Technical:** Basic Computer Literacy
 - **Personal:** Strong Work Ethic, Quick Learner, Teamwork
-
 ---
 
 ## 📄 Personal Information
 
-- **Date of Birth:** September 2, 2005
-- **Place of Birth:** Sta Cruz, Laguna
-- **Age:** 20 years old
+- **Date of Birth:** September 2, 2003
+- **Place of Birth:** San Pablo, Laguna
+- **Age:** 23 years old
 - **Religion:** Roman Catholic
 - **Status:** Single
 - **Citizenship:** Filipino
