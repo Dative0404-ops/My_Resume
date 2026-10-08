@@ -1,6 +1,6 @@
 # Carlos S. Muller
 
-**Aspiring Crew Member | Fast Learner | Customer Service Enthusiast**
+**Aspiring Crew Member / Team Member | Fast Learner | Customer Service Enthusiast**
 
 📍 Calauan, Laguna, Philippines
 📞 09670185981
@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Motivated and energetic individual seeking a part-time Crew Member position at McDonald's. A quick learner with a strong work ethic and a commitment to providing excellent customer service. Thrives in busy environments and eager to contribute to team success while maintaining high standards of food quality and cleanliness.
+Motivated and energetic individual seeking a part-time Crew Member or Team Member position. A quick learner with a strong work ethic and a commitment to providing excellent customer service. Thrives in busy environments and eager to contribute to team success while maintaining high standards of service, quality, and cleanliness.
 
 ---
 
