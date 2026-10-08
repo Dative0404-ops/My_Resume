@@ -35,11 +35,15 @@
             font-size: 1.2em;
             color: #555;
             margin-bottom: 15px;
+            font-weight: 500;
+        }
+        .contact-info {
+            color: #555;
         }
         .contact-info a {
             color: #3498db;
             text-decoration: none;
-            margin: 0 10px;
+            margin: 0 5px;
         }
         .contact-info a:hover {
             text-decoration: underline;
@@ -69,12 +73,21 @@
         li {
             margin-bottom: 8px;
         }
+        .skills-group {
+            margin-bottom: 15px;
+        }
+        .skills-group h3 {
+            font-size: 1.1em;
+            color: #34495e;
+            margin-bottom: 10px;
+        }
         .skills-list {
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
             list-style: none;
             padding: 0;
+            margin: 0;
         }
         .skills-list li {
             background-color: #ecf0f1;
@@ -82,13 +95,20 @@
             padding: 8px 15px;
             border-radius: 20px;
             font-size: 0.9em;
+            font-weight: 500;
         }
         .personal-info {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 10px;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
             list-style: none;
             padding: 0;
+        }
+        .personal-info li {
+            background-color: #f8f9fa;
+            padding: 10px 15px;
+            border-radius: 6px;
+            border-left: 4px solid #3498db;
         }
     </style>
 </head>
@@ -96,7 +116,7 @@
     <div class="container">
         <header>
             <h1>Carlos S. Muller</h1>
-            <p class="subtitle">Aspiring Crew Member / Team Member | Fast Learner | Customer Service Enthusiast</p>
+            <p class="subtitle">Aspiring Tech Professional | Fast Learner | Customer Service Enthusiast</p>
             <div class="contact-info">
                 <span>📍 Calauan, Laguna, Philippines</span> |
                 <span>📞 <a href="tel:09670185981">09670185981</a></span> |
@@ -113,7 +133,7 @@
             <h2>💼 Work Experience</h2>
             <div class="job">
                 <h3>Independent Rice Farmer</h3>
-                <p class="date">Calauan, Laguna | 2022 - 2023</p>
+                <p class="date">Camarines Norte Daet | 2022 - 2023</p>
                 <ul>
                     <li>Managed daily operations of a small-scale rice farm, including crop cycles, planting, and harvesting.</li>
                     <li>Developed strong time-management and problem-solving skills by adapting to weather and logistical challenges.</li>
@@ -144,25 +164,53 @@
 
         <section>
             <h2>🛠️ Skills</h2>
-            <ul class="skills-list">
-                <li>Customer Service</li>
-                <li>Active Listening</li>
-                <li>Inventory Management</li>
-                <li>Multitasking</li>
-                <li>Time Management</li>
-                <li>Teamwork</li>
-                <li>Strong Work Ethic</li>
-                <li>Quick Learner</li>
-                <li>Basic Computer Literacy</li>
-            </ul>
+            
+            <div class="skills-group">
+                <h3>Technical</h3>
+                <ul class="skills-list">
+                    <li>Java & Spring Boot</li>
+                    <li>Python</li>
+                    <li>C#</li>
+                    <li>PHP & Laravel</li>
+                    <li>Tailwind CSS</li>
+                    <li>Basic Computer Literacy</li>
+                </ul>
+            </div>
+
+            <div class="skills-group">
+                <h3>Customer Service</h3>
+                <ul class="skills-list">
+                    <li>Active Listening</li>
+                    <li>Customer Focus</li>
+                    <li>Positive Attitude</li>
+                </ul>
+            </div>
+
+            <div class="skills-group">
+                <h3>Operational</h3>
+                <ul class="skills-list">
+                    <li>Inventory Management</li>
+                    <li>Multitasking</li>
+                    <li>Time Management</li>
+                </ul>
+            </div>
+
+            <div class="skills-group">
+                <h3>Personal</h3>
+                <ul class="skills-list">
+                    <li>Strong Work Ethic</li>
+                    <li>Quick Learner</li>
+                    <li>Teamwork</li>
+                </ul>
+            </div>
         </section>
 
         <section>
             <h2>📄 Personal Information</h2>
             <ul class="personal-info">
-                <li><strong>Date of Birth:</strong> September 2, 2005</li>
-                <li><strong>Place of Birth:</strong> Sta Cruz, Laguna</li>
-                <li><strong>Age:</strong> 20 years old</li>
+                <li><strong>Date of Birth:</strong> September 2, 2003</li>
+                <li><strong>Place of Birth:</strong> San Pablo, Laguna</li>
+                <li><strong>Age:</strong> 23 years old</li>
                 <li><strong>Religion:</strong> Roman Catholic</li>
                 <li><strong>Status:</strong> Single</li>
                 <li><strong>Citizenship:</strong> Filipino</li>
